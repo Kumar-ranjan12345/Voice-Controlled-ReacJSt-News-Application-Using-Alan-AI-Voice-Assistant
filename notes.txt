@@ -1,0 +1,2 @@
+Can access any API dynamically, always pulls it, iterates through it.
+Users can interact with their voice and GUI.
